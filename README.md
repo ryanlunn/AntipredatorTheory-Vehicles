@@ -1,7 +1,7 @@
 # AntipredatorTheory-Vehicles
 R scripts, supplementary material, and data needed to reproduce the results of Lunn et al. (Pre-print/In Submission).
 
-## Code Folder
+# Code Folder
 
 **S5_Code_Generating_Quantitative_Predictions.R:** The code used to generate quantitative predictions for each model with data from DeVault et al. 2015.  
 
