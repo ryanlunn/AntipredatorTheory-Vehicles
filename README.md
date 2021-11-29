@@ -1,4 +1,4 @@
-# AntipredatorTheory-Vehicles
+# AntipredatorTheoryAndVehicleSpeed
 R scripts, supplementary material, and data needed to reproduce the results of Lunn et al. (Pre-print/In Submission).
 
 
